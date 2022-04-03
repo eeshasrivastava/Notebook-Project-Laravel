@@ -1,5 +1,5 @@
 # My Notebook Project (Laravel)
-A notebook website developed using Laravel in which a user can login and perform the CRUD operations as well.
+“My Notebook Project” is the project developed using Laravel framework for people to store their  notes. In this online notebook project, a person should register and login with credentials to access and edit his/her notes. After signing in, he can perform following operations on it, create, read, write and delete.
 
 ## Requirements:
 1. XAMPP : to manage working of local server
